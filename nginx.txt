@@ -1,1 +1,0 @@
-docker run -d -p 4310:80 -v /home/mobaxterm/docker/nginx:/usr/share/nginx/html  --name webito10 nginx    # funciona en cmd 
